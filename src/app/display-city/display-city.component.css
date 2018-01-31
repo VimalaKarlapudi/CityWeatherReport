@@ -1,0 +1,23 @@
+.container{
+    margin-left: 400px;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.form-control{
+    height:40px;
+    width:500px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.form-control:hover{
+  color:rgb(128, 0, 0);
+}
+button{
+    background-color: green;
+    height:40px;
+    width:100px;
+    margin-left: 250px;
+    border-radius: 10px;  
+}
